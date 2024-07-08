@@ -1,0 +1,1 @@
+export { default as docsApi} from './docsApi';
